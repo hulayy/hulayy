@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="OutlawRP | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][https://discord.gg/zBXEjBjENx]
+<img align="left" alt="OutlawRP | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg">https://discord.gg/zBXEjBjENx
 
 <br />
 
