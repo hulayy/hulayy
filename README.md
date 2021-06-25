@@ -27,5 +27,5 @@
 
 <br />
 
-<img align="center" alt="OutlawLogo" src="https://imgur.com/RggfG28">
+<img align="center" alt="OutlawLogo" src="https://imgur.com/a/Nilt95c">
 
