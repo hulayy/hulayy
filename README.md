@@ -27,5 +27,5 @@
 
 <br />
 
-<img align="left" alt="OutlawLogo" width="26px" src="https://imgur.com/a/Nilt95c">
+<img align="left" alt="OutlawLogo" width="26px" src="https://cdn.discordapp.com/attachments/752540214152527892/857996136059764746/logo1024.png">
 
