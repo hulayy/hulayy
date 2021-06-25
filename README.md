@@ -26,6 +26,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"*>
 
 <br />
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Nilt95c" data-context="false" ><a href="//imgur.com/a/Nilt95c"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-<img align="center" alt="OutlawLogo" src="https://imgur.com/a/Nilt95c">
+
+<img align="left" alt="OutlawLogo" width="26px" src="https://imgur.com/a/Nilt95c">
 
