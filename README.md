@@ -2,7 +2,7 @@
 
 - 🤠 CTO of Outlaw Roleplay Project
 - 🤝 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn more & more stuff 
+- 🥅 2022 Goals: Start our Roleplay project and Learn more & more stuff 
 
 ---
 
